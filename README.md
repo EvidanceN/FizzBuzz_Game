@@ -11,4 +11,4 @@ Rules of the game
 - Fizz=divisible by 2
 - Buzz=divisible by 5
 
-![Welcome page](image.jpg)
+![Welcome page](https://github.com/EvidanceN/FizzBuzz_Game/blob/main/Welcome_page%20(2).png)
