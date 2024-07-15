@@ -11,4 +11,4 @@ Rules of the game
 - Fizz=divisible by 2
 - Buzz=divisible by 5
 
-
+![Welcome page](image.jpg)
