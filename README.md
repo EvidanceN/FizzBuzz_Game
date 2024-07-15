@@ -12,3 +12,6 @@ Rules of the game
 - Buzz=divisible by 5
 
 ![Welcome page](https://github.com/EvidanceN/FizzBuzz_Game/blob/main/Welcome_page%20(2).png)
+![page](p1.png)
+
+
